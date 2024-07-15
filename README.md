@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Gourav Karnor from Indore M.P<br><br>- 🔭 I’m pursuing  MCA from MNNIT Allahabad <br>- 📚 I'm currently learning Advanced Web Development skills</p>
+<p align="left">I'm Gourav Karnor<br><br>- 🔭 I’m pursuing  MCA from MNNIT Allahabad <br>- 📚 Web Developer.</p>
 
 ###
 
